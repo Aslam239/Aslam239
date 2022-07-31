@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alsathamhussain
-- 👀 I’m interested in ...Database modellig, web page desing, e-commerce websit
+- 👀 I’m interested in ...Database modelling, web page desing, e-commerce websit, PLSQL, SQL. 
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
